@@ -1,3 +1,9 @@
 %syntax-version=1.0.0
 %project=twitter-clone-sqitch-project
 %uri=uritwitter-clone-sqitch-project
+
+0001_create_users_table 2022-03-21T03:07:52Z Syah Fadel Putra Dwingga <t-syah.dwingga@traveloka.com> # Create User Table
+0002_create_followers_table 2022-03-21T04:31:51Z Syah Fadel Putra Dwingga <t-syah.dwingga@traveloka.com> # Create Followers Table
+0003_create_tweets_table 2022-03-21T05:51:30Z Syah Fadel Putra Dwingga <t-syah.dwingga@traveloka.com> # Create Tweets Table
+0004_create_tags_table 2022-03-21T06:28:37Z Syah Fadel Putra Dwingga <t-syah.dwingga@traveloka.com> # Create Tags Table
+0005_create_tweet_tags_table 2022-03-21T06:36:52Z Syah Fadel Putra Dwingga <t-syah.dwingga@traveloka.com> # Create Tweet Tags Table

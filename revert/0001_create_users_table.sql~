@@ -1,0 +1,7 @@
+-- Revert twitter-clone-sqitch-project:0001_create_users_table from pg
+
+BEGIN;
+
+-- XXX Add DDLs here.
+
+COMMIT;

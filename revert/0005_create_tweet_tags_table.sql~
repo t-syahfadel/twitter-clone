@@ -1,0 +1,7 @@
+-- Revert twitter-clone-sqitch-project:0005_create_tweet_tags_table from pg
+
+BEGIN;
+
+-- XXX Add DDLs here.
+
+COMMIT;
